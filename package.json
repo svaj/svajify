@@ -1,0 +1,10 @@
+{
+  "name": "svajify",
+  "version": "1.0.0",
+  "description": "fun with spotify",
+  "main": "index.js",
+  "repository": "https://github.com/svaj/svajify",
+  "author": "Chris Svajlenka",
+  "license": "MIT",
+  "private": true
+}
