@@ -6,5 +6,9 @@
   "repository": "https://github.com/svaj/svajify",
   "author": "Chris Svajlenka",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "react": "^16.3.2",
+    "spotify-web-api-js": "^0.24.0"
+  }
 }
