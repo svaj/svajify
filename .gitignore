@@ -1,4 +1,11 @@
 .DS_Store
-dist
+build
+output
 coverage
 node_modules
+
+.env.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
